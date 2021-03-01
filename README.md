@@ -1,2 +1,3 @@
 # hello-world
-let's learn github
+
+Hi, this is Brianna. I am learning github for my first day at tastyworks.
